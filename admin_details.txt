@@ -1,0 +1,11 @@
+admin panel username = LittleAdmin@123
+admin panel password = lemonadmin@321
+
+Delivery username = Delivery
+Delivery password = abcd@1234
+
+LemonUser username = LemonUser
+LemonUser password = strongpassword123
+
+Customer username= Customer
+Customer password = 123@cust
